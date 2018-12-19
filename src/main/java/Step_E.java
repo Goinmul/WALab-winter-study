@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Step_E {
 
-	// printing a half triangle.
 	Scanner s = new Scanner(System.in);
 	public void E01() {
 		System.out.print("length : ");
