@@ -98,6 +98,7 @@ public class Step_I {
 		
 	}
 	
+	//I06
 	byte getRandom() {
 		System.out.println("create 10 numbers.");
 		Random r =new Random();
@@ -119,6 +120,7 @@ public class Step_I {
 		return 0;
 	}
 
+	//I07
 	int selectCan() {
 		int choice = -1, price =0, count = 0;
 		String exit = "Y";

@@ -310,5 +310,4 @@ public class Step_G {
 		System.out.println("seniors : "+seniors);
 		System.out.println("total charge : "+total_fee);
 	}
-	
 }
